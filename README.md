@@ -19,9 +19,9 @@ A rede foi segmentada utilizando VLANs para separar logicamente os departamentos
 Departamento	VLAN	Sub-rede
 
 TI	10	192.168.1.0/25,
-Administração/Vendas	20	192.168.1.128/25
-RH e Marketing	30	192.168.2.0/25
-Servidores	40	192.168.2.128/25
+Administração/Vendas	20	192.168.1.128/25,
+RH e Marketing	30	192.168.2.0/25,
+Servidores	40	192.168.2.128/25.
 
 🔀 VLANs (Virtual LAN)
 
