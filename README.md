@@ -3,7 +3,6 @@
 
 📌 Overview
 
-
 This project simulates a complete corporate network infrastructure using Cisco Packet Tracer, featuring departmental segmentation, dynamic routing, network services and communication with an external client integrated with IoT devices. With the aim of automating farm management processes, IoT can improve animal welfare and also save time for owners.
 
 
